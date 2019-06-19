@@ -1,2 +1,4 @@
 # Perlin-Noise
-Random infinite generation of 3D Perlin noise created in Processing
+Visualization of the Perlin Noise algorithm in 3D using Processing.
+
+Includes a variety of different surface fills and peak finding (WIP)
